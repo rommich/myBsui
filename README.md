@@ -8,3 +8,5 @@ obiektów JSON.
 
 Do skompilowania najlepiej jest użyć środowiska Intellij, wygeneruje ono 2 pliki .jar client i server
 za pomocą których można uruchomić komunikator.
+
+Projekt używa javy w wersji 1.8
